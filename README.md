@@ -12,7 +12,7 @@ This repository serves as a practice for learning React.js by myself, watching t
   
 ## 👉*2. React for Beginners 28 ~ 45: Todo List Application*
 - Explore the development of a Todo List application using React.js.
-- Understand how to implement features like adding, editing, and deleting tasks, as well as managing task completion status.<br>
+- Understand how to implement features like adding, and deleting tasks, as well as managing task completion status.<br>
 
 ## 3. React for Beginner 46 ~ 64: Recipe Application
 - Build a Recipe Application utilizing React.js
