@@ -10,7 +10,7 @@ This repository serves as a practice for learning React.js by myself, watching t
 ## 1. React for Beginners 1 ~ 27: Basic React
 - Dive into the core concepts of React.js, including components, props, state management, and lifecycle methods.<br>
   
-## *2. React for Beginners 28 ~ 45: Todo List Application*
+## 👉*2. React for Beginners 28 ~ 45: Todo List Application*
 - Explore the development of a Todo List application using React.js.
 - Understand how to implement features like adding, editing, and deleting tasks, as well as managing task completion status.<br>
 
