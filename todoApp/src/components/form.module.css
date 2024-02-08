@@ -1,0 +1,33 @@
+.todoform {
+  background: whitesmoke;
+  border-radius: 8px;
+  padding: 20px;
+  width: 500px;
+  margin: 0 auto;
+  margin-top: 50px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+.todoinput {
+  display: block;
+  width: 100%;
+  border: none;
+  color: black;
+  font-size: 16px;
+  font-family: JetBrains Mono Light;
+}
+.todoinput:focus {
+  outline: none;
+}
+.todobutton {
+  display: inline-block;
+  border: none;
+  border-radius: 4px;
+  background-color: #00643e;
+  color: wheat;
+  padding: 12px 20px;
+  cursor: pointer;
+  font-family: JetBrains Mono Light;
+}
+.inputContainer {
+  display: flex;
+}
