@@ -22,3 +22,9 @@ This repository serves as a practice for learning React.js by myself, watching t
 # Current Focus
 <br>
 This repository is currently focused on covering the content discussed in episodes 28 ~ 45 of the series, building a Todo List Application from scratch.
+
+
+# Results
+<br>
+This is my TodoList Application end.
+<img>
