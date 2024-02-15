@@ -29,4 +29,3 @@ This repository is currently focused on covering the content discussed in episod
 TodoList Application has reached its end.<br>
 Here is the result!
 <br><br>
-<img src="https://github.com/Mengzzii/TodoListAppPractice/assets/151775207/24bfed44-8379-48fa-b18b-970a2b64f928">
